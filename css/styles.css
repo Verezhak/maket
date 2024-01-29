@@ -1,0 +1,83 @@
+:root {
+  --primery-dark: #111;
+  --violet: #1e1823;
+  --gray: #4c4c4c;
+  --orange: #fd9222;
+  --beige: #fcf1e0;
+  --white: #fafafa;
+  --primery-white: #fff;
+}
+
+body {
+  font-family: "montserat", sans-serif;
+  color: #111;
+  background-color: #fafafa;
+}
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+  list-style-type: none;
+}
+h1,
+h2,
+h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+img {
+  display: block;
+}
+
+a {
+  text-decoration: none;
+}
+.container {
+  width: 100%;
+  max-width: 1166px;
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.navigation {
+}
+.link-nav span {
+  color: var(--primery-dark);
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: -0.03em;
+}
+.link-nav {
+  color: var(--primery-dark);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: 0.03em;
+}
+.list-menu {
+}
+.item-menu {
+}
+.link-menu {
+  color: var(--primery-dark);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+}
+.soc-list {
+}
+.item-soc {
+}
+.link-soc {
+}
+.icon-soc {
+ 
+}
