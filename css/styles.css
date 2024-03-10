@@ -13,7 +13,8 @@ body {
   color: var(--primery-dark);
   background-color: var(--white);
 }
-ul {
+ul,
+ol {
   margin-top: 0;
   margin-bottom: 0;
   padding-left: 0;
@@ -712,7 +713,8 @@ a {
     width: calc((100% - 96px) / 4);
   }
 }
-
+.k:nth-child(:last-child) {
+}
 .tastes-item:nth-child(3n + 3) {
   background-color: var(--violet);
 }
